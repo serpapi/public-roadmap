@@ -4,7 +4,7 @@ This issue-only repository is our public roadmap for SerpApi, LLC.
 
 Add a new issue for feature requests, new APIs, and to report an issue.
 
-Feel free to explore, leave comments, upvote issues, and add new issues.
+Feel free to explore existing issues, leave comments, upvote issues, and add new issues.
 
 ## How to add a new issue
 - Search issues if it's not already reported. Leave a comment and upvote with a thumb up if it is.
