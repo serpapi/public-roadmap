@@ -1,7 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/307597/154772945-1b7dba5f-21cf-41d0-bb2e-65b6eff4aaaf.png" width="30" /> SerpApi Public Roadmap
 
-**We've just launched this repository. For past reports that haven't been migrated yet, see our forum: https://forum.serpapi.com** 
-
 This issue-only repository is our public roadmap for SerpApi, LLC.
 
 Add a new issue for feature requests, new APIs, and to report an issue.
