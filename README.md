@@ -4,7 +4,7 @@ This issue-only repository is our public roadmap for SerpApi, LLC.
 
 Add a new issue for feature requests, new APIs, and to report an issue.
 
-Feel free to explore existing issues, leave comments, upvote issues, and add new issues.
+Feel free to explore existing issues, leave comments, upvote issues, and add new issues. Issues have 5 levels of priority: `freezer` < `queued` < `prioritized` < `urgent` < `doom`. Issues can be a `bug` or a `feature`.
 
 ## Report an issue
 1. Search [existing issues](https://github.com/serpapi/public-roadmap/issues) if your issue isn't already reported. Leave a comment and upvote with a thumb up if it is.
