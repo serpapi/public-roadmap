@@ -38,7 +38,7 @@ https://github.com/serpapi/public-roadmap/issues/new). Make sure to:
 
 ## Mission statement and vision
 
-SerpApi, LLC aims to provide the best APIs in the world for every search engines. 
+SerpApi, LLC aims to provide the best APIs in the world for every search engine. 
 
 ## Values
 
