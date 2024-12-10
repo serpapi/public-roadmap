@@ -9,7 +9,7 @@ Feel free to explore existing issues, leave comments, upvote issues, and add new
 ## Report an issue
 1. Search [existing issues](https://github.com/serpapi/public-roadmap/issues) if your issue isn't already reported. Leave a comment and upvote with a thumb up if it is.
 2. Open a [new issue](
-https://github.com/serpapi/public-roadmap/issues/new). Make sure to:
+https://github.com/serpapi/public-roadmap/issues/new?assignees=&labels=type%3A+bug&projects=&template=bug.md&title=%5BExample+Search+API%5D+%28omit+if+not+an+API%29+Short+summary+of+the+bug). Make sure to:
     - Write a clear title (e.g., "On Google Maps API, addresses are not extracted anymore")
     - Write a description as detailed as possible of what's wrong
     - Add a screenshot(s) with area of interest marked with red rectangles
@@ -24,8 +24,8 @@ https://github.com/serpapi/public-roadmap/issues/new). Make sure to:
 
 ## Ask for new APIs (or features)
 1. Search [existing issues](https://github.com/serpapi/public-roadmap/issues) if your request isn't already reported. Leave a comment and upvote with a thumb up if it is.
-2. Open a [new issue](
-https://github.com/serpapi/public-roadmap/issues/new). Make sure to:
+2. Open a [new issue](https://github.com/serpapi/public-roadmap/issues/new?assignees=&labels=type%3A+feature&projects=&template=feature.md&title=%5BExample+Search+API%5D+%28omit+if+not+an+API%29+Short+summary+of+the+feature
+). Make sure to:
     - Write a clear title (e.g., "Add support for Amazon Search API")
     - Write a detailed description of what you are expecting
     - Add a screenshot(s) (with area of interest marked with red rectangles if relevant)
