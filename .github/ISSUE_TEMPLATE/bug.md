@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Something is broken
-title: "[Example Search API] (omit if not an API) Short summary of the bug"
+title: '[Example Search API] (omit if not an API) Short summary of the bug'
 labels: 'type: bug'
 assignees: ''
 
