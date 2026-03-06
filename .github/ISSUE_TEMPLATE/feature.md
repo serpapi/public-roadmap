@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: Something new to build
-title: "[Example Search API] (omit if not an API) Short summary of the feature"
+title: '[Example Search API] (omit if not an API) Short summary of the feature'
 labels: 'type: feature'
 assignees: ''
 
