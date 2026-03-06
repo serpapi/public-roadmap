@@ -1,7 +1,7 @@
 ---
 name: Improvement
 about: Something needs to be improved
-title: "[Example Search API] (omit if not an API) Short summary of the improvement"
+title: '[Example Search API] (omit if not an API) Short summary of the improvement'
 labels: 'type: improvement'
 assignees: ''
 
